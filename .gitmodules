@@ -1,0 +1,6 @@
+[submodule "mathify-front"]
+	path = mathify-front
+	url = https://github.com/danielpqb/mathify-front
+[submodule "mathify-back"]
+	path = mathify-back
+	url = https://github.com/danielpqb/mathify-back
